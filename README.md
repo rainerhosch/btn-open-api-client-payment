@@ -1,3 +1,7 @@
+# BTN Open API - Client
+
+This is a toolkit program for develope client app of BTN Open API, based from codeigniter framework v3.1.13
+
 ###################
 What is CodeIgniter
 ###################
